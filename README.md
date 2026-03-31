@@ -42,6 +42,14 @@ You can see real traffic from a running system:
 
 👉 https://quantumsabre.com/
 
+## Network Flow
+
+Modem → Firegate → Router → Devices
+
+## Example Dashboard
+
+![Firegate Live Dashboard](https://quantumsabre.com/wp-content/uploads/2026/03/Screenshot-2026-03-31-132813.png)
+
 ## Notes
 
 This repository is for documentation and architecture overview only.
